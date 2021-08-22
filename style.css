@@ -1,0 +1,91 @@
+header {
+  text-align: justify;
+  font-size: x-large;
+  font-weight: 400;
+  color: black;
+}
+
+#main-doc {
+  position: fixed;
+  overflow: scroll;
+  width: 80%;
+  height: 100%;
+  right: 0;
+  padding-left: 200px;
+}
+
+#navbar {
+  position: fixed;
+  overflow: scroll;
+  left: 0;
+  width: 20%;
+  height: 100%;
+  padding-left: 0%;
+}
+
+li {
+  left: 0;
+  align-content: stretch;
+  line-height: 25px;
+  margin: 15px 0px 15px 0px;
+  padding-left: 0%;
+}
+
+#INTRODUCTION {
+}
+
+#WHAT_YOU_SHOULD_ALREADY_KNOW {
+}
+
+#JAVASCRIPT_AND_JAVA {
+}
+
+#HELLO_WORLD {
+}
+
+#VARIABLES {
+}
+
+#DECLARING_VARIABLES {
+}
+
+#VARIABLE_SCOPE {
+}
+
+#GLOBAL_VARIABLES {
+}
+
+#CONSTANTS {
+}
+
+#DATA_TYPES {
+}
+
+#IF...ELSE_STATEMENT {
+}
+
+#WHILE_STATEMENT {
+}
+
+#FUNCTION_DECLARATIONS {
+}
+
+#REFERENCE {
+}
+
+.main-section {
+  color: rgba(0, 0, 0, 0.705);
+  margin: 15px 50px 15px 50px;
+}
+
+.nav-link {
+  text-decoration-line: none;
+  color: rgb(8, 124, 8);
+  margin: 50px 0px 50px 0px;
+  padding-left: 0px;
+  font-size: large;
+  font-family: "Montserrat", sans-serif;
+}
+
+@media screen and (max-width: 800px) {
+}
